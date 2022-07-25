@@ -1,2 +1,5 @@
 # ProjetoBolsa
- Projeto em Java
+
+ Projeto Basico para por em pratica conehcimentos basicos em java.
+
+ 
