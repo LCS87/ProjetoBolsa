@@ -1,5 +1,5 @@
 # ProjetoBolsa
 
- Projeto Basico para por em pratica conehcimentos basicos em java.
+ Projeto Basico para por em pratica conhecimentos basicos em java.
 
  
